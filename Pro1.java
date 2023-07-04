@@ -1,9 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.*;
 import java.util.Scanner;
-//STUDENT NAME -N.K.V.M NETHMINI NISANSLA
-//NIC -986060715V
-//BATCH - CMJD 100
+
 class Pro1{
  public static String SID[]=new String[100];
  public static String SNAME[]=new String[100];
